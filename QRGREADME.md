@@ -2,7 +2,7 @@
 
 Welcome to the QR Code Generator project! This web application allows users to generate custom QR codes from text or URLs. With a user-friendly interface and adjustable colors, you can create QR codes that fit your style and needs.
 
-## Features
+## Features -- 
 
 - **Customizable QR Codes**: Enter any text or URL to generate a QR code.
 - **Color Options**: Choose your QR code color and background color for a personalized look.

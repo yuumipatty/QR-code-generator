@@ -1,4 +1,4 @@
-# QR Code Generator
+# QR Code Generator ##
 
 Welcome to the QR Code Generator project! This web application allows users to generate custom QR codes from text or URLs. With a user-friendly interface and adjustable colors, you can create QR codes that fit your style and needs.
 
